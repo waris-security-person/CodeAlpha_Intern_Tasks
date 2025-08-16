@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Phishing primarily relies on:",
+    "choices": [
+      "Hardware flaws",
+      "Social engineering",
+      "TLS exploits",
+      "Quantum attacks"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "Which is a phishing red flag?",
+    "choices": [
+      "Unexpected attachment",
+      "Email from HR about policy update",
+      "Newsletter you subscribed to",
+      "Meeting invite from your team"
+    ],
+    "answer": 0
+  },
+  {
+    "text": "Safe action when asked to reset password via email link:",
+    "choices": [
+      "Click link in the email",
+      "Reply with your password",
+      "Use your own bookmark to the site",
+      "Ignore all emails"
+    ],
+    "answer": 2
+  },
+  {
+    "text": "MFA helps by:",
+    "choices": [
+      "Replacing passwords",
+      "Adding a second factor to verify identity",
+      "Encrypting email",
+      "Blocking all spam"
+    ],
+    "answer": 1
+  },
+  {
+    "text": "A lookalike domain example is:",
+    "choices": [
+      "example.com",
+      "examp1e.com",
+      "example.org",
+      "sub.example.com"
+    ],
+    "answer": 1
+  }
+]

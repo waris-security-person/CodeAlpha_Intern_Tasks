@@ -1,0 +1,2 @@
+scapy>=2.5.0
+pyshark; python_version>='3.8' # optional, if user wants tshark-backed parsing
